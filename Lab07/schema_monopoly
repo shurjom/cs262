@@ -1,0 +1,4 @@
+Player(ID, emailAddress, name)
+PlayerGame(gameID, playerID, score, cash, propertyID, location)
+Game (ID, time)
+property(ID, gameID, playerID, property, hotels, houses)

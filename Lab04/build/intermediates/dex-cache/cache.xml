@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Shurjo/Documents/workspace/cs262/Lab04/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/Lab04/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_5d9f7afdb13e48e70cd08ba718512fc9a436267a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shurjo/Documents/workspace/cs262/Lab04/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e42bfcfab1fa91acdd8c2f567ab0d13587bfa3e0">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/Lab04/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c095219a0d7cd3e3d04b957bc24f2c5ad637e22c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shurjo/Documents/workspace/cs262/Lab04/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/Lab04/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_3944d5eb6a6966387734eab93b0135734449a840/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shurjo/Documents/workspace/cs262/Lab04/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/Lab04/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_d49985303c6ce2ab24b299e58a5b9509626437c2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shurjo/Documents/workspace/cs262/Lab04/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/Lab04/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_ec36d7b97d2334f057d78e3d3d35007d6ab27d6f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shurjo/Documents/workspace/cs262/Lab04/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3b5580a25c7878bb0187716b4f8e1ebe00670c04">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/Lab04/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a20b0182b6cf5e2a4db67347b290b716e86c443a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shurjo/Documents/workspace/cs262/Lab04/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/Lab04/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.4.0_5f4794f2d7ce818af47981a045fe19e259f4c898/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shurjo/Documents/workspace/cs262/Lab04/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/Lab04/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_890308dfbf4f479a46f794e66fb33dccd5d6837d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shurjo/Documents/workspace/cs262/Lab04/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/Lab04/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.4.0_fa4727b27a8c1f87db1d9971469a566ee081f4a2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shurjo/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/Lab04/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_90276f8232ac048a8c9eccec2a80bf3248ebba27/classes.dex" />
+    </item>
+
+</items>

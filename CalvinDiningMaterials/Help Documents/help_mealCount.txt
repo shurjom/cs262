@@ -1,0 +1,8 @@
+Section 2: Meal Count
+
+You can use the meal count feature of the Calvin Dining Hall app to keep track of the number of meals you have left and add/deduct meals.
+
+1. Pull out the sliding menu on the left side of the app.
+2. Tap on the meal count option.
+3. Enter number of meals you desire to track using the popup keyboard. 
+4. Add or deduct the meals you desire every time one is used.(The meals left will be automatically stored and be available the next time you use the app.)

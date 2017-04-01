@@ -1,0 +1,10 @@
+Supplemental Specification
+
+App must be made in Android Studio
+App must support a variety of Android operating systems
+App must be functional
+App must be free of bugs
+App must be original
+App must be easy to use
+App must be the product of a team effort
+App must meet/exceed CS 262 assignment specifiations

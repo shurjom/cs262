@@ -1,0 +1,21 @@
+﻿User Story: As a person that eats at calvin, I want a daily view that shows the food menu at the dining halls so i can decide where to eat.
+
+
+Section Daily View:
+
+
+You can use the Daily View to see when dining halls are open and what they are serving.
+
+
+Switching Dining Halls:
+There are tabs at the top that show viewable dining halls. You either swipe or tap the tabs at the top to switch to different dining halls
+
+
+Viewing Information:
+In each tab, today’s and tomorrow’s menu is shown and each meal is separated into blocks. Each meal has its own name and times. It also displays what is on the menu.
+
+
+
+
+Score: 83 
+I scored 83 while the cs Department page scored 70.81. The example in the lab scored 60.29. So my thing is decently readable because I have the vocabulary of a 9nth grader.

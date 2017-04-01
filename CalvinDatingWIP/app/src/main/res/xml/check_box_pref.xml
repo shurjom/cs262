@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckBoxPreference
+
+        android:key="pref_username"
+        android:title="Hide Real Name from Others"
+        android:summary="Until you both up-vote each other"
+        />
+
+</PreferenceScreen>

@@ -1,0 +1,20 @@
+
+Review the sprint 2 deliverables from the other team you are reviewing (see project deliverable #2) and do the following:
+
+Name: Shurjo Maitra
+Team Reviewing: The Consumables
+
+a. Does their Trello board show the appropriate amount of activity?
+Yes, their Trello board does have a decent amount of activity, some group members participate more. 
+
+b. Write a one-to-two-paragraph review of their models. Are their user stories, class model and UI model well-formulated? Do they describe a coherent system?
+
+Their UI digram looks fell formulated, it has the basic features that they talked about in the meetings. The Homescreen needs more details on the positioning and features like the loading circle in the UI (some kind of indication of asthetic feature would be great. The next iteration should also work on this. The user stories look good and detailed providing clear indication to what their plan is. The class model looks a bit incomplete but overall focused. They do come together to describe a coherant system
+
+c. Has there been an appropriate amount of code pushed into their client repo? Can you run the prototype? If so, does the application make sense to you?
+
+Yes, there has been a good amount of code, the app does make sense but features and functionality is still lacking.
+
+d. Does their supplemental specification address non-functional requirements? Are they missing anything important?
+
+Their supplemental specs are good but they might need to add some more as they go along.

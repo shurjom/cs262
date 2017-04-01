@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="edu.calvin.kpb23students.calvindining.fragments.Count">
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Configure Blocks"
+        android:id="@+id/keyboardButton"
+        android:layout_marginBottom="151dp"
+        android:layout_alignParentBottom="true"
+        android:layout_toStartOf="@+id/countText" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:ems="10"
+        android:id="@+id/countText"
+        android:text="0"
+        android:layout_alignBottom="@+id/keyboardButton"
+        android:layout_alignParentEnd="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="meals eaten."
+        android:id="@+id/textView"
+        android:layout_gravity="right|top"
+        android:layout_marginLeft="18dp"
+        android:layout_marginStart="43dp"
+        android:layout_marginTop="95dp"
+        android:layout_alignParentTop="true"
+        android:layout_toEndOf="@+id/consumeButton" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/foodPDView"
+        android:layout_gravity="center_horizontal|top"
+        android:text="0"
+        android:layout_alignBaseline="@+id/textView"
+        android:layout_alignBottom="@+id/textView"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="-"
+        android:id="@+id/undoButton"
+        android:layout_gravity="right|bottom"
+        android:layout_marginLeft="7dp"
+        android:layout_marginStart="14dp"
+        android:layout_below="@+id/textView"
+        android:layout_alignStart="@+id/textView"
+        android:layout_marginTop="18dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="+"
+        android:id="@+id/consumeButton"
+        android:layout_marginRight="11dp"
+        android:layout_alignBaseline="@+id/undoButton"
+        android:layout_alignBottom="@+id/undoButton"
+        android:layout_alignEnd="@+id/foodButton" />
+
+    <Button
+        android:text="Confirm Blocks"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/foodButton"
+        android:layout_below="@+id/countText"
+        android:layout_toStartOf="@+id/countText" />
+
+</RelativeLayout>

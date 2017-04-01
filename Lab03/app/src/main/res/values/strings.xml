@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab 3</string>
+    <string name="password_label">Password:</string>
+    <string name="invalid_password_message">invalid password...</string>
+</resources>

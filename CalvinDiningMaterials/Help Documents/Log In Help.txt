@@ -1,0 +1,17 @@
+Logging in to the Calvin Dining app:
+
+You can log into the Calvin Dining app to save your meal count.
+
+If you have not logged in before:
+1.	From the Log In screen, select “New User”.
+2.	Choose a Username and enter it into the Username field.
+3.	Confirm your Username by entering it into the Confirm Username field.
+4.	Choose a Password and enter it into the Password field.
+5.	Confirm your Password by entering it into the Confirm Password field.
+
+If you are a returning user:
+1.	Enter your Username and Password into the fields provided.
+
+
+Lab instructions: 62.3
+Log In instructions: 67.1

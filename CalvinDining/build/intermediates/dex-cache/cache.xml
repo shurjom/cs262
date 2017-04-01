@@ -1,0 +1,1355 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c7ed3fd9d5a9687980dac6c504abd91ad3dfa238">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/transforms/dex/release/folders/1000/10/com.google.firebase-firebase-analytics-impl-10.0.0_bed6e6858f82effce6ad1ec1a9427599df2aef53/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b7518f2d3fce2ebec6a0bb8d2cd97eebc9f119df">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-games-10.0.0_65ea7566217e60a3247ab5e0ad34204522c0c2af/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c7ed3fd9d5a9687980dac6c504abd91ad3dfa238">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/pre-dexed/release/com.google.firebase-firebase-analytics-impl-10.0.0_bed6e6858f82effce6ad1ec1a9427599df2aef53.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5ac49e5d5aea8772c8018ce2888145f04c5fe7ca">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/transforms/dex/release/folders/1000/10/com.google.firebase-firebase-storage-10.0.0_fd9d15028b13351322ef69fda330ad2ef9d9cb98/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shurjo/.gradle/caches/modules-2/files-2.1/com.squareup.moshi/moshi/1.2.0/c27dff1588c45efcff2e07c29e9d148ee707da29/moshi-1.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c27dff1588c45efcff2e07c29e9d148ee707da29">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/transforms/dex/release/folders/1000/10/moshi-1.2.0_e86300387d0720d9654eec335f16392ab1262515/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5ac49e5d5aea8772c8018ce2888145f04c5fe7ca">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/pre-dexed/release/com.google.firebase-firebase-storage-10.0.0_fd9d15028b13351322ef69fda330ad2ef9d9cb98.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shurjo/.gradle/caches/modules-2/files-2.1/com.squareup.moshi/moshi/1.2.0/c27dff1588c45efcff2e07c29e9d148ee707da29/moshi-1.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c27dff1588c45efcff2e07c29e9d148ee707da29">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/pre-dexed/release/moshi-1.2.0_e86300387d0720d9654eec335f16392ab1262515.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="147c3e6b95aa3d1e83705b056777ef865d272969">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-iid-10.0.0_5f87203db24fb2aea93f77090a4468720ce2926c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0d70f7c486d9d65ceabd0039667ae4d53bf0ae7c">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-wearable-10.0.0_b9b7ee3fe62233a9de645e7f6f9b90ee0506d052.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0d70f7c486d9d65ceabd0039667ae4d53bf0ae7c">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-wearable-10.0.0_b9b7ee3fe62233a9de645e7f6f9b90ee0506d052/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="147c3e6b95aa3d1e83705b056777ef865d272969">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-iid-10.0.0_5f87203db24fb2aea93f77090a4468720ce2926c/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shurjo/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-moshi/2.1.0/9cf9b3171c839a49b1924303105e8b4e57b497e8/converter-moshi-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9cf9b3171c839a49b1924303105e8b4e57b497e8">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/pre-dexed/release/converter-moshi-2.1.0_90d9b149d01563e5b0cbfb9811b5b51a488d68ce.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shurjo/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-moshi/2.1.0/9cf9b3171c839a49b1924303105e8b4e57b497e8/converter-moshi-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9cf9b3171c839a49b1924303105e8b4e57b497e8">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/transforms/dex/release/folders/1000/10/converter-moshi-2.1.0_90d9b149d01563e5b0cbfb9811b5b51a488d68ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-24.2.1_ed329f9b5bf0fdb9c390e5ca4b2827553b25ef50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ddfa80ca49f1334afea1f9aa93148be73f73cd0f">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-analytics-impl-10.0.0_8686e05f0b675c97d4ff68513e57150f18789bbe.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/transforms/dex/release/folders/1000/10/com.android.support-support-fragment-24.2.1_796051e27535840133832462449c593689a1e5cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b7518f2d3fce2ebec6a0bb8d2cd97eebc9f119df">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-games-10.0.0_65ea7566217e60a3247ab5e0ad34204522c0c2af.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ddfa80ca49f1334afea1f9aa93148be73f73cd0f">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-analytics-impl-10.0.0_8686e05f0b675c97d4ff68513e57150f18789bbe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fb0229499e600b485a276d4e31161a3ae31c144c">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-clearcut-10.0.0_5c1f158718d6694beb81c2c702dd752cd7d0faf1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1fabe27d7a7b7ef3fe077c6499cd0a4f08e1c427">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-panorama-10.0.0_05ad2ca28d9af19ddbcb43e756348edfbb6ad303/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/transforms/dex/release/folders/1000/10/com.android.support-support-v4-24.2.1_ed329f9b5bf0fdb9c390e5ca4b2827553b25ef50/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fb0229499e600b485a276d4e31161a3ae31c144c">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-clearcut-10.0.0_5c1f158718d6694beb81c2c702dd752cd7d0faf1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1fabe27d7a7b7ef3fe077c6499cd0a4f08e1c427">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-panorama-10.0.0_05ad2ca28d9af19ddbcb43e756348edfbb6ad303.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/pre-dexed/release/com.android.support-support-fragment-24.2.1_796051e27535840133832462449c593689a1e5cd.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/transforms/dex/release/folders/1000/10/internal_impl-24.2.1_d0a13da137671fb766c040ac575f7f771a6288d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6cc495f5634b8aaae30a37317ba687830da545cf">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-cast-10.0.0_3c800d8297ca9174e99816489bda843429a722c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/pre-dexed/release/internal_impl-24.2.1_d0a13da137671fb766c040ac575f7f771a6288d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="cf60a8cd2f896314e40b2f1a9788e91e228c3671">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-maps-10.0.0_45f78564c42243488bef4b863a4ef15fb324fc74.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c2376d0ec8dbe85d3446cad64905c0395fbe220e">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-auth-base-10.0.0_fcd09d7dd1d382577657b7b76fd13e50039b33ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="41e39c7ee84e63ae18df6c6ccb96d196996add4c">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/pre-dexed/release/com.google.firebase-firebase-database-10.0.0_d4bec94b14645efd7eb94d3d4b336701cafa4095.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c2376d0ec8dbe85d3446cad64905c0395fbe220e">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-auth-base-10.0.0_fcd09d7dd1d382577657b7b76fd13e50039b33ff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="41e39c7ee84e63ae18df6c6ccb96d196996add4c">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/transforms/dex/release/folders/1000/10/com.google.firebase-firebase-database-10.0.0_d4bec94b14645efd7eb94d3d4b336701cafa4095/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="cf60a8cd2f896314e40b2f1a9788e91e228c3671">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-maps-10.0.0_45f78564c42243488bef4b863a4ef15fb324fc74/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shurjo/.gradle/caches/modules-2/files-2.1/org.threeten/threetenbp/1.3.2/6ef0f1feae9c5b5cce4b3478e8f1541d1c86ec2a/threetenbp-1.3.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6ef0f1feae9c5b5cce4b3478e8f1541d1c86ec2a">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/transforms/dex/release/folders/1000/10/threetenbp-1.3.2_70c319103ca56af37e5bfc8f6c9e5dedd15581f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="75dbc3537bc912d077b3db2f5ac72d5b43644b2c">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-basement-10.0.0_a7ab8f8ab4181ba709aa53a7f4f9389b88dda959.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/transforms/dex/release/folders/1000/10/internal_impl-24.2.1_3f5e7fb884a0670d1b6b04ca27bbcb2420943042/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/pre-dexed/release/internal_impl-24.2.1_3f5e7fb884a0670d1b6b04ca27bbcb2420943042.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ca730ac2d72056445bf68998cec6b6b2cf4d179e">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/pre-dexed/release/com.google.firebase-firebase-config-10.0.0_2862f7eef5d11736dc01225776259f5ede9f06ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shurjo/.gradle/caches/modules-2/files-2.1/org.threeten/threetenbp/1.3.2/6ef0f1feae9c5b5cce4b3478e8f1541d1c86ec2a/threetenbp-1.3.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6ef0f1feae9c5b5cce4b3478e8f1541d1c86ec2a">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/pre-dexed/release/threetenbp-1.3.2_70c319103ca56af37e5bfc8f6c9e5dedd15581f6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ca730ac2d72056445bf68998cec6b6b2cf4d179e">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/transforms/dex/release/folders/1000/10/com.google.firebase-firebase-config-10.0.0_2862f7eef5d11736dc01225776259f5ede9f06ad/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/pre-dexed/release/internal_impl-24.2.1_709cb47c94a0ec42a3b61c5aa19218be90ce397a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/pre-dexed/release/com.android.support-support-core-utils-24.2.1_2f0b30a507e14e3c5e807623b350a9d536c3b8e3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/transforms/dex/release/folders/1000/10/internal_impl-24.2.1_709cb47c94a0ec42a3b61c5aa19218be90ce397a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/transforms/dex/release/folders/1000/10/internal_impl-24.2.1_c3c9a615954d54e600bc4757d2397e3c2de01561/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6cc495f5634b8aaae30a37317ba687830da545cf">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-cast-10.0.0_3c800d8297ca9174e99816489bda843429a722c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ce6e6e59212db0893fc36e5b579cf319a84aade8">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/pre-dexed/release/com.google.firebase-firebase-analytics-10.0.0_4371801b5cf868bfc2f29f491ce8a23094f20550.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/transforms/dex/release/folders/1000/10/com.android.support-support-core-utils-24.2.1_2f0b30a507e14e3c5e807623b350a9d536c3b8e3/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/pre-dexed/release/internal_impl-24.2.1_c3c9a615954d54e600bc4757d2397e3c2de01561.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="75dbc3537bc912d077b3db2f5ac72d5b43644b2c">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-basement-10.0.0_a7ab8f8ab4181ba709aa53a7f4f9389b88dda959/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ce6e6e59212db0893fc36e5b579cf319a84aade8">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/transforms/dex/release/folders/1000/10/com.google.firebase-firebase-analytics-10.0.0_4371801b5cf868bfc2f29f491ce8a23094f20550/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0e2bf5e85132c8bfed05a87b71352918815e0205">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-gcm-10.0.0_81fc26569e6d23a32549b2e749f35fa7d544910b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/transforms/dex/release/folders/1000/10/com.android.support-design-24.2.1_131eb9e3568ee82863811d4ff2a0b947ef455096/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/pre-dexed/release/com.android.support-animated-vector-drawable-24.2.1_ed7aa64e3ce875c102146a3c94c121f50c5c1700.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="73fe8ab7f76e41d0cabbc4fa3399557de52efb2d">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-ads-10.0.0_fdee2dc5e07d729cff364fbc5c6bae574fbd506d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/transforms/dex/release/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_5273b87fe7d2a54e9b06b29da2b596ebac58975b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/pre-dexed/release/internal_impl-24.2.1_650fc767679d4beb4d1738edbcb0a8cee029a591.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="73fe8ab7f76e41d0cabbc4fa3399557de52efb2d">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-ads-10.0.0_fdee2dc5e07d729cff364fbc5c6bae574fbd506d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="76863814ca24fea5a0510373d15d3ccddebc09f1">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-vision-10.0.0_bc76a6afd88d30cbe3df96248536fb2b1b4e0cef/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/pre-dexed/release/com.android.support-recyclerview-v7-24.2.1_5273b87fe7d2a54e9b06b29da2b596ebac58975b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0e2bf5e85132c8bfed05a87b71352918815e0205">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-gcm-10.0.0_81fc26569e6d23a32549b2e749f35fa7d544910b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/transforms/dex/release/folders/1000/10/internal_impl-24.2.1_650fc767679d4beb4d1738edbcb0a8cee029a591/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="76863814ca24fea5a0510373d15d3ccddebc09f1">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-vision-10.0.0_bc76a6afd88d30cbe3df96248536fb2b1b4e0cef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="985be85104f6d0c5c5e51e7b7e60d8883a98ac64">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-tasks-10.0.0_6ce5b3db071fdccb2ee2df5703565be6d86d4895.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/transforms/dex/release/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_ed7aa64e3ce875c102146a3c94c121f50c5c1700/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="985be85104f6d0c5c5e51e7b7e60d8883a98ac64">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-tasks-10.0.0_6ce5b3db071fdccb2ee2df5703565be6d86d4895/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/pre-dexed/release/com.android.support-design-24.2.1_131eb9e3568ee82863811d4ff2a0b947ef455096.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="80338dde5f9d8e20efe2f2a44bc424aefe4eb8f4">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-10.0.0_a949d7e1f0a362ae8a3b854d29aebfb927c94f1a/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="80338dde5f9d8e20efe2f2a44bc424aefe4eb8f4">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-tagmanager-api-10.0.0_a949d7e1f0a362ae8a3b854d29aebfb927c94f1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/pre-dexed/release/com.android.support-support-media-compat-24.2.1_168a758e1c1fa914cbe0356e13eccabc0fd02d4d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.firebase/firebase-appindexing/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="22031b047b12904b888549ba36c0c30d83b1aea1">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/transforms/dex/release/folders/1000/10/com.google.firebase-firebase-appindexing-10.0.0_853f82f08cafe7f79d856aa7a6d23261353e9708/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.firebase/firebase-appindexing/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="22031b047b12904b888549ba36c0c30d83b1aea1">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/pre-dexed/release/com.google.firebase-firebase-appindexing-10.0.0_853f82f08cafe7f79d856aa7a6d23261353e9708.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shurjo/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/pre-dexed/release/okio-1.9.0_074685c7aa55cd5b685985621f935ceaab095e4e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shurjo/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/transforms/dex/release/folders/1000/10/okhttp-3.4.1_9d15c85a385a777c0f181b10d3e066b17c542ad9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/transforms/dex/release/folders/1000/10/com.android.support-support-media-compat-24.2.1_168a758e1c1fa914cbe0356e13eccabc0fd02d4d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shurjo/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/transforms/dex/release/folders/1000/10/okio-1.9.0_074685c7aa55cd5b685985621f935ceaab095e4e/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shurjo/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/pre-dexed/release/okhttp-3.4.1_9d15c85a385a777c0f181b10d3e066b17c542ad9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/transforms/dex/release/folders/1000/10/com.android.support-support-compat-24.2.1_18191de15b351fdebfa3da274d56ee5a4a7b7589/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.android.support/palette-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/transforms/dex/release/folders/1000/10/com.android.support-palette-v7-24.0.0_379a6a83ce40e7c8c194cb199b7cdbb003aa9472/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/pre-dexed/release/com.android.support-support-compat-24.2.1_18191de15b351fdebfa3da274d56ee5a4a7b7589.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="777627dcaf0eaacd4212220e8f2d0c63def91774">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/transforms/dex/release/folders/1000/10/com.google.firebase-firebase-crash-10.0.0_d5300d49f5c867b6ee1e98c721bffc738f849411/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-24.2.1_897e366a3ed966b773e148ba8f5d933fd3f59f94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.android.support/palette-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/pre-dexed/release/com.android.support-palette-v7-24.0.0_379a6a83ce40e7c8c194cb199b7cdbb003aa9472.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/transforms/dex/release/folders/1000/10/com.android.support-appcompat-v7-24.2.1_897e366a3ed966b773e148ba8f5d933fd3f59f94/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8e2fd2b87dc79fc6c8d70fda1247ac6f4a878a28">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-cast-framework-10.0.0_4b32657727ab150591da728977b0e2ddda69f46e/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8e2fd2b87dc79fc6c8d70fda1247ac6f4a878a28">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-cast-framework-10.0.0_4b32657727ab150591da728977b0e2ddda69f46e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ae809d521d9f7da5337a82edd64eea23a76e788d">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-gass-10.0.0_1af1f22aa24df7009c8dd15709d1d207c267eea8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="58cd8dc3bbf63b37f0e107033257467511130e0f">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-nearby-10.0.0_6ccc2eea49f3a9005482bfb1945da9b589c33474.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shurjo/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/pre-dexed/release/support-annotations-24.2.1_55eaa69f1a83672c3140b76d362f7e035d5c70cd.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shurjo/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/transforms/dex/release/folders/1000/10/support-annotations-24.2.1_55eaa69f1a83672c3140b76d362f7e035d5c70cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="813f70b551ce5206ad15dfe6e2f5b2d86e08a723">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-places-10.0.0_08e709af686142c5b5bcb34fc058f8048019a19c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2b410ae1fda134f470276365f4b7f846269e0d23">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/transforms/dex/release/folders/1000/10/com.google.firebase-firebase-common-10.0.0_1ebf06783d98cfc91709850a2c8c4d379df0681a/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3861e0294c61bf4bf968a1da1607497345dca283">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-safetynet-10.0.0_4b66bc2107f10f7d4389fa3d468674d13149dd44.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8ca4ffc4d90754f1f2438dfc3e94006cfcc6be98">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-identity-10.0.0_8338d325961216293be348bc54d4cbc19341ab13/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2b410ae1fda134f470276365f4b7f846269e0d23">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/pre-dexed/release/com.google.firebase-firebase-common-10.0.0_1ebf06783d98cfc91709850a2c8c4d379df0681a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3861e0294c61bf4bf968a1da1607497345dca283">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-safetynet-10.0.0_4b66bc2107f10f7d4389fa3d468674d13149dd44/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5fd86107cb2d2fa2d099250066cc664cdcfd476f">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-wallet-10.0.0_72eff7a616e5095094abcb6776b75a297a4c9864/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4701f9f79c8a00564912b21b0cb0cec3f51a7d23">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-drive-10.0.0_4cbf8449baa49f07a363ac0fe92d6871b70f57cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shurjo/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/pre-dexed/release/retrofit-2.1.0_a90864a60b1d29db4d6e585ce21e1fac873c365b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shurjo/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/transforms/dex/release/folders/1000/10/retrofit-2.1.0_a90864a60b1d29db4d6e585ce21e1fac873c365b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3a05b3852a6aec21ea0a6ea4d284ee69c04c55c4">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/pre-dexed/release/com.google.firebase-firebase-database-connection-10.0.0_fdf360b64357a10bb1b6c6eb8d61a2d7d808125c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4701f9f79c8a00564912b21b0cb0cec3f51a7d23">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-drive-10.0.0_4cbf8449baa49f07a363ac0fe92d6871b70f57cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3a05b3852a6aec21ea0a6ea4d284ee69c04c55c4">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/transforms/dex/release/folders/1000/10/com.google.firebase-firebase-database-connection-10.0.0_fdf360b64357a10bb1b6c6eb8d61a2d7d808125c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="58cd8dc3bbf63b37f0e107033257467511130e0f">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-nearby-10.0.0_6ccc2eea49f3a9005482bfb1945da9b589c33474/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5fd86107cb2d2fa2d099250066cc664cdcfd476f">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-wallet-10.0.0_72eff7a616e5095094abcb6776b75a297a4c9864.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="813f70b551ce5206ad15dfe6e2f5b2d86e08a723">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-places-10.0.0_08e709af686142c5b5bcb34fc058f8048019a19c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-instantapps/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2e61c07206f0568b34939e2dc0e2bc75251648dc">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-instantapps-10.0.0_63becff1cd3e90ef67ab1d2b6be1af2cb9da11ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/transforms/dex/release/folders/1000/10/com.android.support-mediarouter-v7-24.0.0_053fa2932e3c9ce9d72034289e7bf46ab4d0cad9/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/pre-dexed/release/com.android.support-mediarouter-v7-24.0.0_053fa2932e3c9ce9d72034289e7bf46ab4d0cad9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6b7e0a45e8139272f3fe2a19d4e7b1122c769550">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-plus-10.0.0_5904e75184408422c6b4f118a2a9644b28324f7d/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8ca4ffc4d90754f1f2438dfc3e94006cfcc6be98">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-identity-10.0.0_8338d325961216293be348bc54d4cbc19341ab13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-instantapps/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2e61c07206f0568b34939e2dc0e2bc75251648dc">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-instantapps-10.0.0_63becff1cd3e90ef67ab1d2b6be1af2cb9da11ae.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b1c926efda90fbf653889fea922eacc527de8486">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-tagmanager-10.0.0_bf0ec8ab12d19a96ed732ff1f1e2a194d35064ef/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b1c926efda90fbf653889fea922eacc527de8486">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-tagmanager-10.0.0_bf0ec8ab12d19a96ed732ff1f1e2a194d35064ef.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4b1a7fac58cc85b115adee653a10b6300f90951a">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/transforms/dex/release/folders/1000/10/com.google.maps.android-android-maps-utils-0.4_6dcad217c6376e22abb12a2da09867b6f8a8a59c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="741f550aea73f64507fc60a799fefd5a2ea2bef5">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-analytics-10.0.0_70fb8e1fe786d8d3f81bdcb5c75d06cb32d6b8b1/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="741f550aea73f64507fc60a799fefd5a2ea2bef5">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-analytics-10.0.0_70fb8e1fe786d8d3f81bdcb5c75d06cb32d6b8b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4b1a7fac58cc85b115adee653a10b6300f90951a">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/pre-dexed/release/com.google.maps.android-android-maps-utils-0.4_6dcad217c6376e22abb12a2da09867b6f8a8a59c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6b7e0a45e8139272f3fe2a19d4e7b1122c769550">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-plus-10.0.0_5904e75184408422c6b4f118a2a9644b28324f7d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/transforms/dex/release/folders/1000/10/com.android.support-support-core-ui-24.2.1_b7a613561c8c8cc5ec2c18a1a2446ea8ec716f1e/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/pre-dexed/release/com.android.support-support-core-ui-24.2.1_b7a613561c8c8cc5ec2c18a1a2446ea8ec716f1e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/pre-dexed/release/com.android.support-support-vector-drawable-24.2.1_9a12d85f93523e2147080d92f05ca8d853054afa.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ae809d521d9f7da5337a82edd64eea23a76e788d">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-gass-10.0.0_1af1f22aa24df7009c8dd15709d1d207c267eea8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/transforms/dex/release/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_9a12d85f93523e2147080d92f05ca8d853054afa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a18773c279bde7e49e09f621aea613685c108c7f">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/transforms/dex/release/folders/1000/10/com.google.firebase-firebase-storage-common-10.0.0_fcc97f3847add1a348fd7fa2b403f60a596975e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="932350448ea536c5dfbc45697951f31d34e50f1f">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-location-10.0.0_edeab45dfd785e2cb197bc0e5c70cbb62c0045e2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="932350448ea536c5dfbc45697951f31d34e50f1f">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-location-10.0.0_edeab45dfd785e2cb197bc0e5c70cbb62c0045e2/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a18773c279bde7e49e09f621aea613685c108c7f">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/pre-dexed/release/com.google.firebase-firebase-storage-common-10.0.0_fcc97f3847add1a348fd7fa2b403f60a596975e6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="849da156edbc1201f5cd6e237524187442a62af3">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-ads-lite-10.0.0_fa14a93b63e8d2aa604d76ef55403d5aa91ff99d/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="777627dcaf0eaacd4212220e8f2d0c63def91774">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/pre-dexed/release/com.google.firebase-firebase-crash-10.0.0_d5300d49f5c867b6ee1e98c721bffc738f849411.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-v4-impl/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3660967212b89195e628670db181ed86e3307569">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-tagmanager-v4-impl-10.0.0_c67386255af27fd61f649ed8c4ddb9d281eda6dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f36cf060b7f0d881ea6449c254ab8a570a3dcdbe">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-fitness-10.0.0_90f17a0beeba4406fe2a4935aa8af659dd475beb/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="849da156edbc1201f5cd6e237524187442a62af3">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-ads-lite-10.0.0_fa14a93b63e8d2aa604d76ef55403d5aa91ff99d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-v4-impl/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3660967212b89195e628670db181ed86e3307569">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-tagmanager-v4-impl-10.0.0_c67386255af27fd61f649ed8c4ddb9d281eda6dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a383a583c346ce8ea5767d77f4fe58e1d8e5f221">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-auth-10.0.0_a6f0a040f2956f6105f9bae7e0c3a2a1f330f7f2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a383a583c346ce8ea5767d77f4fe58e1d8e5f221">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-auth-10.0.0_a6f0a040f2956f6105f9bae7e0c3a2a1f330f7f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f36cf060b7f0d881ea6449c254ab8a570a3dcdbe">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-fitness-10.0.0_90f17a0beeba4406fe2a4935aa8af659dd475beb.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a61005619e43f203768ff3f224137def6f029e50">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/transforms/dex/release/folders/1000/10/com.google.firebase-firebase-iid-10.0.0_f1689bdf0d5e18235fc405e261d23e7296ee550e/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="73a2c740a76aa4ba46168ed8bcdee1966e48a589">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-appinvite-10.0.0_3130f156e6d461b20102071ab32e2114a0849174.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="444a220fadbdf260b3aa47c6e858c5d1e645170f">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/pre-dexed/release/com.google.firebase-firebase-messaging-10.0.0_78440af74d6470c587a7d393e2b1b61663d4db7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a61005619e43f203768ff3f224137def6f029e50">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/pre-dexed/release/com.google.firebase-firebase-iid-10.0.0_f1689bdf0d5e18235fc405e261d23e7296ee550e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="73a2c740a76aa4ba46168ed8bcdee1966e48a589">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-appinvite-10.0.0_3130f156e6d461b20102071ab32e2114a0849174/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="444a220fadbdf260b3aa47c6e858c5d1e645170f">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/transforms/dex/release/folders/1000/10/com.google.firebase-firebase-messaging-10.0.0_78440af74d6470c587a7d393e2b1b61663d4db7a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3347c3e7056fabc88bdbd8fdae65ddf2b674d977">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-base-10.0.0_b63e00393924d62a790f1cead295ec6b49683316/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8bb364f67ec2eba2356872b2b4ddfe8aada2d5ac">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/pre-dexed/release/com.google.firebase-firebase-auth-10.0.0_14dc61cf57be444b61fbf9eb13dbe3895eb3808e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/transforms/dex/release/folders/1000/10/internal_impl-24.0.0_6a3bd093eaea43881d34620980b39c412b0abd5f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8bb364f67ec2eba2356872b2b4ddfe8aada2d5ac">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/transforms/dex/release/folders/1000/10/com.google.firebase-firebase-auth-10.0.0_14dc61cf57be444b61fbf9eb13dbe3895eb3808e/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-awareness/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="543835521cf4f867223d9f2a4b19ce32f95b0573">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-awareness-10.0.0_720106d3abe35cd764f887cc4cd2de79a64f8daf.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-awareness/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="543835521cf4f867223d9f2a4b19ce32f95b0573">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-awareness-10.0.0_720106d3abe35cd764f887cc4cd2de79a64f8daf/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/pre-dexed/release/internal_impl-24.0.0_6a3bd093eaea43881d34620980b39c412b0abd5f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3347c3e7056fabc88bdbd8fdae65ddf2b674d977">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDining/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-base-10.0.0_b63e00393924d62a790f1cead295ec6b49683316.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDatingWIP/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ae68737a3839db86f5b65d5241cc0d63713f4477">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDatingWIP/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8b7bc232f708b6e5bc4c7a54a8bb1628443e8006/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDatingWIP/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDatingWIP/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.2.1_ce7ed18306e2a548fd692158922032d4f4929517/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shurjo/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDatingWIP/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.2.1_dadfcf19c325cf43b6509b799115a5db5b948e74/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDatingWIP/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1cc33a10ee4bd60bc082a4a978a1a3bee23a4f30">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDatingWIP/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_7f1dbc863a725f7d749391ebee471d926fc52e09/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDatingWIP/app/build/intermediates/exploded-aar/com.android.support/design/22.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDatingWIP/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-22.2.1_237aff36b350ea14e1c77a265fa42673839f9134/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDatingWIP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDatingWIP/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-22.2.1_24029f53525d710d980169c7846eaac86f05f525/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shurjo/Documents/workspace/cs262/CalvinDatingWIP/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/Users/Shurjo/Documents/workspace/cs262/CalvinDatingWIP/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-22.2.1_df87a008a870b2b2eb29fa35a808f9c9215904eb/classes.dex" />
+    </item>
+
+</items>

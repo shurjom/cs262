@@ -1,0 +1,13 @@
+Polling Help Page
+First of all in order to use the polling system you must be a logged in user. If you have not created a login, please go to the login page.
+
+At the top of the page you are able to select between the current polls for both the Knollcrest and Commons Dining halls. 
+You can select these by either taping on the names or swiping left and right on the page.
+
+The page will present the current days options and between 2 to 4 responses that can be given for it.
+You can select the response you want by tapping on it. Only one response can be selected for each poll.
+To submit your response hit the submit button after you have selected a response. 
+Once submitted, results for that  poll will be displayed underneath each response and you will not be able to submit a response again for that poll. 
+
+
+Got a 70.81 on reading ease compared to a 60.29 of the sample page and the cs intro page got a 10.46
